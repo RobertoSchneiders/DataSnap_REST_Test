@@ -1,0 +1,8 @@
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Release\ServiceHost.exe.config
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Release\ServiceHost.exe
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Release\ServiceHost.pdb
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Release\SampleServices.dll
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Release\SampleServices.pdb
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\obj\x86\Release\ServiceHost.exe
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\obj\x86\Release\ServiceHost.pdb

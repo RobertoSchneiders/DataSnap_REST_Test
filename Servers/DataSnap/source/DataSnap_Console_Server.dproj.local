@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/10/26 09:25:34.000.802,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\CallbackFramework-min.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.622,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.759,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.788,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\ServerFunctions.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.791,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\base64-min.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.755,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\base64.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.783,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\CallbackFramework.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.779,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\json2.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.794,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\json2-min.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.798,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2012/10/26 09:25:34.000.693,=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\WebModuleUnit1.pas</Transaction>
+    <Transaction>2012/10/26 09:31:08.000.606,C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\WebModule.pas=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\WebModuleUnit1.pas</Transaction>
+    <Transaction>2012/10/26 09:31:08.000.606,C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\WebModule.dfm=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2012/10/26 09:31:13.000.490,C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\SM.pas=C:\Users\Roberto\Documents\RAD Studio\Projects\Project12\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2012/10/26 09:33:16.000.352,C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\DataSnap (Console-Session)\Project12.dproj=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\DataSnap (Console-Session)\DataSnap_Console_Session_Server.dproj</Transaction>
+    <Transaction>2012/10/26 09:34:29.000.889,C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\DataSnap (Console-Server)\DataSnap_Console_Server.dproj=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\DataSnap (Console-Server)\DataSnap_Console_Session_Server.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

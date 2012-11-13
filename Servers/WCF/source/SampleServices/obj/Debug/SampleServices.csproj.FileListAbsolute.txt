@@ -1,0 +1,18 @@
+D:\SEED\MyArticles\REST based services\SampleServices\bin\Debug\SampleServices.dll.config
+D:\SEED\MyArticles\REST based services\SampleServices\bin\Debug\SampleServices.dll
+D:\SEED\MyArticles\REST based services\SampleServices\bin\Debug\SampleServices.pdb
+D:\SEED\MyArticles\REST based services\SampleServices\obj\Debug\ResolveAssemblyReference.cache
+D:\SEED\MyArticles\REST based services\SampleServices\obj\Debug\SampleServices.dll
+D:\SEED\MyArticles\REST based services\SampleServices\obj\Debug\SampleServices.pdb
+C:\Users\Adriano\Downloads\REST_based_services\SampleServices\bin\Debug\SampleServices.dll.config
+C:\Users\Adriano\Downloads\REST_based_services\SampleServices\bin\Debug\SampleServices.dll
+C:\Users\Adriano\Downloads\REST_based_services\SampleServices\bin\Debug\SampleServices.pdb
+C:\Users\Adriano\Downloads\REST_based_services\SampleServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adriano\Downloads\REST_based_services\SampleServices\obj\Debug\SampleServices.dll
+C:\Users\Adriano\Downloads\REST_based_services\SampleServices\obj\Debug\SampleServices.pdb
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\bin\Debug\SampleServices.dll.config
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\bin\Debug\SampleServices.dll
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\bin\Debug\SampleServices.pdb
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\obj\Debug\SampleServices.dll
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\obj\Debug\SampleServices.pdb
