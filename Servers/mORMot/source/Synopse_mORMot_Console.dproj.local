@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/09/06 11:39:27.000.298,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/10/17 13:54:29.000.412,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/10/28 13:44:11.000.748,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/10/28 13:44:18.000.203,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/01 08:52:29.000.793,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/01 16:51:48.000.363,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/01 17:46:53.000.082,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/03 16:09:30.000.530,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/03 16:12:28.000.933,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/03 17:20:41.000.746,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/04 10:22:39.000.420,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/11/07 15:20:18.000.026,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/12/08 16:56:55.000.131,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/02/08 10:19:08.000.562,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/02/16 11:04:46.000.858,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/03/05 17:15:30.000.456,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/03/07 14:33:48.000.026,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/03/09 10:43:05.000.903,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/03/09 10:44:57.000.318,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/03/09 10:52:42.000.622,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/04/26 14:33:18.000.166,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/05/03 10:56:11.000.080,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/05/07 15:44:49.000.177,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/05/15 13:53:42.000.174,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/06/06 10:05:16.000.297,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/06/06 11:02:52.000.515,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/06/11 13:54:04.000.654,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/06/11 14:10:54.000.149,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/06/18 15:58:04.000.871,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/06/26 15:50:19.000.678,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/07/05 11:36:58.000.799,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/03 17:18:55.000.439,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/03 17:21:46.000.215,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/20 14:57:38.000.148,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/24 15:14:11.000.642,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/24 15:14:33.000.830,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 13:47:36.000.512,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 13:59:50.000.362,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 14:00:23.000.246,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 14:00:44.000.299,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/04 14:41:58.000.008,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/05 14:30:18.000.694,=C:\Users\Roberto\Documents\RAD Studio\Projects\ItemDetail1.pas</Transaction>
+    <Transaction>2012/09/05 14:30:18.000.579,=C:\Users\Roberto\Documents\RAD Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2012/09/05 14:36:06.000.736,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/05 14:36:47.000.573,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/05 17:15:07.000.817,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/18 09:38:35.000.634,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/18 11:15:33.000.485,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/28 10:28:33.000.345,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/10/01 11:07:08.000.633,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/10/01 11:10:00.000.354,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/10/19 17:00:42.000.740,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/10/19 17:06:37.000.987,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/10/19 17:55:07.000.453,=C:\Users\Roberto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/10/26 08:27:09.000.763,C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\Synopse mORMot (Console)\Synopse_mORMot_Console.dproj=C:\Users\Roberto\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

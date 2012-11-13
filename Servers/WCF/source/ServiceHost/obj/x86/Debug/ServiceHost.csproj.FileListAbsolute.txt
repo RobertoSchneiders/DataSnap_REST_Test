@@ -1,0 +1,24 @@
+D:\SEED\MyArticles\REST based services\ServiceHost\bin\Debug\ServiceHost.exe
+D:\SEED\MyArticles\REST based services\ServiceHost\bin\Debug\ServiceHost.pdb
+D:\SEED\MyArticles\REST based services\ServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SEED\MyArticles\REST based services\ServiceHost\obj\x86\Debug\ServiceHost.exe
+D:\SEED\MyArticles\REST based services\ServiceHost\obj\x86\Debug\ServiceHost.pdb
+D:\SEED\MyArticles\REST based services\ServiceHost\bin\Debug\ServiceHost.exe.config
+D:\SEED\MyArticles\REST based services\ServiceHost\bin\Debug\SampleServices.dll
+D:\SEED\MyArticles\REST based services\ServiceHost\bin\Debug\SampleServices.pdb
+C:\Users\Adriano\Downloads\REST_based_services\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\Adriano\Downloads\REST_based_services\ServiceHost\obj\x86\Debug\ServiceHost.exe
+C:\Users\Adriano\Downloads\REST_based_services\ServiceHost\obj\x86\Debug\ServiceHost.pdb
+C:\Users\Adriano\Downloads\REST_based_services\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\Adriano\Downloads\REST_based_services\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\Adriano\Downloads\REST_based_services\ServiceHost\bin\Debug\SampleServices.dll
+C:\Users\Adriano\Downloads\REST_based_services\ServiceHost\bin\Debug\SampleServices.pdb
+C:\Users\Adriano\Downloads\REST_based_services\ServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\obj\x86\Debug\ServiceHost.exe
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\obj\x86\Debug\ServiceHost.pdb
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Debug\SampleServices.dll
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\bin\Debug\SampleServices.pdb
+C:\Users\Adriano\Desktop\REST_based_services\ServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache

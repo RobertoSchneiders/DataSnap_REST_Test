@@ -1,0 +1,6 @@
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\bin\Release\SampleServices.dll.config
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\bin\Release\SampleServices.dll
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\bin\Release\SampleServices.pdb
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\obj\Release\SampleServices.dll
+C:\Users\Adriano\Desktop\REST_based_services\SampleServices\obj\Release\SampleServices.pdb
