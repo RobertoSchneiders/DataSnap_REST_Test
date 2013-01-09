@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2013/01/04 08:22:10.944,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2013/01/04 08:22:11.846,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\WebModuleUnit1.pas</Transaction>
+    <Transaction>2013/01/04 08:22:11.898,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\base64.js</Transaction>
+    <Transaction>2013/01/04 08:22:11.923,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2013/01/04 08:22:11.944,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\json2.js</Transaction>
+    <Transaction>2013/01/04 08:22:11.948,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\CallbackFramework.js</Transaction>
+    <Transaction>2013/01/04 08:22:11.953,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\ServerFunctions.js</Transaction>
+    <Transaction>2013/01/04 08:22:11.956,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\base64-min.js</Transaction>
+    <Transaction>2013/01/04 08:22:11.970,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\json2-min.js</Transaction>
+    <Transaction>2013/01/04 08:22:11.974,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2013/01/04 08:22:11.983,=C:\Users\Roberto\Documents\RAD Studio\Projects\HTTP_Rest_Framework_Benchmark\Servers\isapi2\js\CallbackFramework-min.js</Transaction>
+  </Transactions>
+</BorlandProject>

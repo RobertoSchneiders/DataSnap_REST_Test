@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/01/02 15:08:03.000.585,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\FormUnit1.pas</Transaction>
+    <Transaction>2013/01/02 15:08:04.000.990,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\base64.js</Transaction>
+    <Transaction>2013/01/02 15:08:04.000.427,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\WebModuleUnit1.pas</Transaction>
+    <Transaction>2013/01/02 15:08:04.000.352,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2013/01/02 15:08:04.000.998,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\json2.js</Transaction>
+    <Transaction>2013/01/02 15:08:04.000.995,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2013/01/02 15:08:05.000.022,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\base64-min.js</Transaction>
+    <Transaction>2013/01/02 15:08:05.000.002,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\CallbackFramework.js</Transaction>
+    <Transaction>2013/01/02 15:08:05.000.019,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\ServerFunctions.js</Transaction>
+    <Transaction>2013/01/02 15:08:05.000.025,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\json2-min.js</Transaction>
+    <Transaction>2013/01/02 15:08:05.000.029,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2013/01/02 15:08:05.000.032,=C:\Users\Roberto\Documents\RAD Studio\Projects\DataSnap_Framework_Benchmark\Server_XE3_Update1\js\CallbackFramework-min.js</Transaction>
+  </Transactions>
+</BorlandProject>
